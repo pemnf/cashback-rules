@@ -1,0 +1,289 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-11-18T23:47:50.618268+00:00",
+  "next_check_at": "2026-11-25T23:47:50.618268+00:00",
+  "rules_verified": false,
+  "cards": [
+    {
+      "id": "bleap",
+      "name": "Bleap",
+      "source_urls": [
+        "https://www.bleap.finance/pt-pt/legal-agreements/cashback-terms-and-conditions"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Base: 1% em USDC, sobre ate 600 EUR por compra e 3,000 EUR de compras por mes.",
+        "Transportes selecionados: 3%; entregas selecionadas: 3%; streaming selecionado: 20%. Outras subscricoes selecionadas: AI: 20%, GAMING: 20%. Limites individuais na fonte.",
+        "Levantamento sujeito a 200 EUR de compras qualificadas nos ultimos 30 dias. Ver datas de aplicacao, periodos de tolerancia e expiracao na fonte.",
+        "Curve excluido; restantes exclusoes e limites por comerciante nas condicoes oficiais."
+      ],
+      "promotions": [],
+      "source_sha256": "7aa7e6fe86a76c4dbc6192e631cd36fb68af38c39ac08bf3c98ce137b521e7d6"
+    },
+    {
+      "id": "okx",
+      "name": "OKX (EEE)",
+      "source_urls": [
+        "https://www.okx.com/pt-pt/help/okx-card-eea-ongoing-cashback-faq"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Nao VIP: 2%, ate 50 EUR de cashback por mes civil.",
+        "Apenas compras financiadas em USDG; recompensa em USDG. Niveis VIP, MCC excluidos e elegibilidade devem ser confirmados na app OKX."
+      ],
+      "promotions": [],
+      "source_sha256": "73706484e072e52610867c41ef6d8e114b59acf4e11e448294c6a02fa573d6b4"
+    },
+    {
+      "id": "bybit",
+      "name": "Bybit EU",
+      "source_urls": [
+        "https://www.bybit.eu/en-EU/learn/bybit-card/bybit-card-earn-passive-income-eu"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Guia Bybit EU: 1% para nao VIP, sem teto mensal publicado nesse guia.",
+        "Recompensas em pontos convertiveis; Auto Cashback e niveis VIP sujeitos as condicoes EU e configuracao da conta. Nao usar regras da Bybit global."
+      ],
+      "promotions": [
+        {
+          "summary": "Novos titulares EU: ate 100% em subscricoes selecionadas no primeiro mes, ate 50 EUR. Nao se aplica a renovacoes; confirmar elegibilidade.",
+          "expires_on": null
+        }
+      ],
+      "source_sha256": "a6a08ea214d340ce5cde32dd90e275d4d9127604b89d39bbfc9f6a590572012b"
+    },
+    {
+      "id": "kast",
+      "name": "KAST",
+      "source_urls": [
+        "https://www.kast.xyz/en/membership"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Standard: 1.5% em USD, sobre ate 2,000 USD de compras elegiveis por mes. Sem anuidade de plano.",
+        "Premium: 2% em USD, sobre ate 10,000 USD de compras elegiveis por mes. Anuidade: 1,000 USD.",
+        "Private: 3% em USD, sobre ate 40,000 USD de compras elegiveis por mes. Anuidade: 10,000 USD.",
+        "Saldo resgatado usado em compras; nao pode ser levantado ou transferido. Pontos KAST nao sao dinheiro; consultar exclusoes e periodos de bloqueio."
+      ],
+      "promotions": [
+        {
+          "summary": "O site anuncia o fim da atribuicao de pontos KAST em 30 november 2026; pontos nao sao o cashback em USD.",
+          "expires_on": "2026-11-30"
+        }
+      ],
+      "source_sha256": "88bdd1614ae86ce8ccab5d87da99c68d2f89d21e54352a440ff5c9650cea11c0"
+    },
+    {
+      "id": "curve",
+      "name": "Curve",
+      "source_urls": [
+        "https://www.curve.com/legal/curve-rewards-and-cash/"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "1% em comerciantes selecionados: Pro escolhe 6; Pro+ escolhe 12.",
+        "Recebido em Curve Cash Points, nao levantaveis como dinheiro. Subscricao, limites e ofertas individuais na Curve Wallet; acumulacao com outro cartao nao garantida."
+      ],
+      "promotions": [],
+      "source_sha256": "9ca6d9fdeda0b0144203a4d786a94dd7465e495542454bd79cf00cd4fbbb2b11"
+    },
+    {
+      "id": "acp",
+      "name": "ACP - Pingo Doce",
+      "source_urls": [
+        "https://www.acp.pt/assistencia/descontos-e-poupanca/descontos-em-destaque/desconto-no-pingo-doce"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": true,
+      "benefits": [
+        "10% de desconto ao comprar cartoes-presente ACP-Pingo Doce.",
+        "Desconto pre-pago, nao cashback bancario. Requer ser socio ACP; quota, validade, locais e meios de pagamento nas condicoes oficiais."
+      ],
+      "promotions": [],
+      "source_sha256": "7813373e1ac29791fdda764887851af67f92cd1772c2904742b37b1a5864f57d"
+    },
+    {
+      "id": "wizink-benfica",
+      "name": "WiZink Benfica",
+      "source_urls": [
+        "https://www.wizink.pt/public/cartao-benfica"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "2% para socios; 1% para adeptos do SL Benfica.",
+        "Credito na Carteira Virtual Benfica, limitado a 156 EUR por ano; nao e dinheiro em conta.",
+        "Elegibilidade, operacoes excluidas e utilizacao do saldo: consultar as condicoes oficiais."
+      ],
+      "promotions": [
+        {
+          "summary": "Oferta de adesao principal: compras de 300 EUR nos primeiros 2 meses; apenas novas adesoes online ate 2026-12-31. Consultar ofertas e exclusoes na fonte.",
+          "expires_on": "2026-12-31"
+        },
+        {
+          "summary": "Oferta base alternativa para uma transacao de qualquer valor nos primeiros 2 meses; apenas novas adesoes online. Ver cheque-oferta na fonte.",
+          "expires_on": "2026-12-31"
+        }
+      ],
+      "source_sha256": "8781f84a8436196c72c7dc8e29eff8bbd4df54570afd0c5f37293425febfb91d"
+    },
+    {
+      "id": "wizink-rewards",
+      "name": "WiZink Rewards",
+      "source_urls": [
+        "https://www.wizink.pt/public/cartoes-de-credito/wizink-rewards",
+        "https://www.wizink.pt/"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Cada 1 EUR em compras vale 1 ponto(s).",
+        "Pontos trocados por ofertas; sem taxa de conversao fixa para dinheiro neste resumo."
+      ],
+      "promotions": [
+        {
+          "summary": "Oferta de adesao principal: compras de 300 EUR nos primeiros 2 meses; apenas novas adesoes online ate 2026-12-31. Consultar ofertas e exclusoes na fonte.",
+          "expires_on": "2026-12-31"
+        },
+        {
+          "summary": "Escolha entre voucher Worten 120 EUR, cartao presente IKEA 120 EUR ou Cartao Da 100 EUR; nao cumulativos e sujeitos as condicoes de adesao.",
+          "expires_on": "2026-12-31"
+        }
+      ],
+      "source_sha256": "ff1e4790f0e746e096e1292f061d87fceea2b263453111ee650fb2ae07b42ebb"
+    },
+    {
+      "id": "unibanco",
+      "name": "Unibanco",
+      "source_urls": [
+        "https://www.unibanco.pt/cartoes/cartao-de-credito/"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Por mes civil: 100-299 EUR elegiveis = 5 EUR; 300-499 EUR = 10 EUR; a partir de 500 EUR = 20 EUR.",
+        "Maximo de 200 EUR nos primeiros 12 meses apos atribuicao do cartao.",
+        "Novos clientes elegiveis e registo atempado na app; devolucoes deduzidas. Consultar exclusoes e custos das operacoes na fonte."
+      ],
+      "promotions": [
+        {
+          "summary": "Campanha de boas-vindas sujeita a elegibilidade individual; a publicacao desta oferta nao prolonga o prazo de um cartao existente.",
+          "expires_on": null
+        }
+      ],
+      "source_sha256": "29a0f1da04326e1cd8bb70d9169d06c3bc53f000282ea2cf46059a0461cf4601"
+    },
+    {
+      "id": "cetelem-black",
+      "name": "Cetelem Black Plus (oferta publicada)",
+      "source_urls": [
+        "https://www.cetelem.pt/cartao-de-credito-black"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Black Plus publicado: 3% em 6 setores; maximo 10 EUR/mes e 120 EUR/ano.",
+        "Supermercados, restaurantes, gasolineiras, carregamento eletrico, TVDE e streaming. Confirmar produto contratado, MCC e periodo de apuramento nas condicoes."
+      ],
+      "promotions": [],
+      "source_sha256": "5f39560d0d49a03cdd568a200684a5f5997adf1ee4966a87e9b93956f9e892b3"
+    },
+    {
+      "id": "revolut",
+      "name": "Revolut pessoal - Standard",
+      "source_urls": [
+        "https://help.revolut.com/en-PT/help/revpoints/what-is-revpoints/question-how-to-earn-revpoints/",
+        "https://help.revolut.com/en-PT/help/revpoints/what-is-revpoints/question-how-can-i-redeem-my-revpoints/"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": null,
+      "status": "error",
+      "source_changed": false,
+      "benefits": [],
+      "promotions": [],
+      "source_sha256": null,
+      "error": "Nao foi possivel consultar a fonte oficial."
+    },
+    {
+      "id": "trade-republic",
+      "name": "Trade Republic",
+      "source_urls": [
+        "https://support.traderepublic.com/en-pt/3050-What-is-Saveback"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": null,
+      "status": "error",
+      "source_changed": false,
+      "benefits": [],
+      "promotions": [],
+      "source_sha256": null,
+      "error": "A fonte redirecionou para outro dominio."
+    },
+    {
+      "id": "trading-212",
+      "name": "Trading 212",
+      "source_urls": [
+        "https://helpcentre.trading212.com/hc/en-us/articles/35948436017053-How-does-212-Card-cashback-work"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Programa publicado: 1.5% ate 15 EUR/mes, apenas ate 2026-12-02.",
+        "Exige Invest cashback e uma subscricao elegivel ativa. Recompensa investida, com risco; taxa base 0%. Disponibilidade do cartao depende da entidade e pais."
+      ],
+      "promotions": [
+        {
+          "summary": "O programa de 1.5% termina em 2026-12-02; apos essa data deixa de atribuir este cashback.",
+          "expires_on": "2026-12-02"
+        }
+      ],
+      "source_sha256": "220726ed330b04532d557d9fbc27730e489a650912bf9edd4f5e1c71940ff769"
+    },
+    {
+      "id": "universo",
+      "name": "Universo+",
+      "source_urls": [
+        "https://universo.pt/cartao-de-credito-universo/"
+      ],
+      "checked_at": "2026-11-18T23:47:50.618268+00:00",
+      "last_success_at": "2026-11-18T23:47:50.618268+00:00",
+      "status": "ok",
+      "source_changed": false,
+      "benefits": [
+        "Universo+: 5% no Continente e Meu Super; 1% nas restantes compras elegiveis, incluindo supermercados como Pingo Doce. Limite conjunto: 10 EUR/mes.",
+        "Recompensa em saldo Cartao Continente, nao dinheiro em conta. Requer Cartao Continente associado e pagamento na modalidade Fim do Mes.",
+        "Pagar o extrato a 100% para evitar juros. Pagamentos de servicos, transferencias e outras operacoes podem estar excluidos; consultar o programa e contrato. Cartoes Universo antigos podem ter condicoes diferentes."
+      ],
+      "promotions": [],
+      "source_sha256": "f0d84e80de9c41d2091dd24a1cc20dccbfe27d53f854c6949ef5ba10f492e210"
+    }
+  ]
+}
