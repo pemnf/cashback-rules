@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
-  "checked_at": "2026-11-18T00:16:50.154603+00:00",
-  "next_check_at": "2026-11-25T00:16:50.154603+00:00",
+  "checked_at": "2026-11-18T23:15:46.387811+00:00",
+  "next_check_at": "2026-11-25T23:15:46.387811+00:00",
   "rules_verified": false,
   "cards": [
     {
@@ -10,13 +10,13 @@
       "source_urls": [
         "https://www.bleap.finance/pt-pt/legal-agreements/cashback-terms-and-conditions"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
         "Base: 1% em USDC, sobre ate 600 EUR por compra e 3,000 EUR de compras por mes.",
-        "Transportes selecionados: 3%; entregas selecionadas: 3%; streaming selecionado: 20%. Limites individuais na fonte.",
+        "Transportes selecionados: 3%; entregas selecionadas: 3%; streaming selecionado: 20%. Outras subscricoes selecionadas: AI: 20%, GAMING: 20%. Limites individuais na fonte.",
         "Levantamento sujeito a 200 EUR de compras qualificadas nos ultimos 30 dias. Ver datas de aplicacao, periodos de tolerancia e expiracao na fonte.",
         "Curve excluido; restantes exclusoes e limites por comerciante nas condicoes oficiais."
       ],
@@ -29,8 +29,8 @@
       "source_urls": [
         "https://www.okx.com/pt-pt/help/okx-card-eea-ongoing-cashback-faq"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
@@ -46,15 +46,20 @@
       "source_urls": [
         "https://www.bybit.eu/en-EU/learn/bybit-card/bybit-card-earn-passive-income-eu"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
         "Guia Bybit EU: 1% para nao VIP, sem teto mensal publicado nesse guia.",
         "Recompensas em pontos convertiveis; Auto Cashback e niveis VIP sujeitos as condicoes EU e configuracao da conta. Nao usar regras da Bybit global."
       ],
-      "promotions": [],
+      "promotions": [
+        {
+          "summary": "Novos titulares EU: ate 100% em subscricoes selecionadas no primeiro mes, ate 50 EUR. Nao se aplica a renovacoes; confirmar elegibilidade.",
+          "expires_on": null
+        }
+      ],
       "source_sha256": "a6a08ea214d340ce5cde32dd90e275d4d9127604b89d39bbfc9f6a590572012b"
     },
     {
@@ -63,8 +68,8 @@
       "source_urls": [
         "https://www.kast.xyz/en/membership"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
@@ -87,8 +92,8 @@
       "source_urls": [
         "https://www.curve.com/legal/curve-rewards-and-cash/"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
@@ -104,8 +109,8 @@
       "source_urls": [
         "https://www.acp.pt/assistencia/descontos-e-poupanca/descontos-em-destaque/desconto-no-pingo-doce"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": true,
       "benefits": [
@@ -113,7 +118,7 @@
         "Desconto pre-pago, nao cashback bancario. Requer ser socio ACP; quota, validade, locais e meios de pagamento nas condicoes oficiais."
       ],
       "promotions": [],
-      "source_sha256": "e348544191a31294db0f6cda43873090f3064dace574b609176763c381fd1309"
+      "source_sha256": "3a7dcbd4e6dac4e4711807f7a100a8d8b6385ceec95263b99cd1f741bf2cc5fb"
     },
     {
       "id": "wizink-benfica",
@@ -121,8 +126,8 @@
       "source_urls": [
         "https://www.wizink.pt/public/cartao-benfica"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
@@ -149,10 +154,10 @@
         "https://www.wizink.pt/public/cartoes-de-credito/wizink-rewards",
         "https://www.wizink.pt/"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
-      "source_changed": false,
+      "source_changed": true,
       "benefits": [
         "Cada 1 EUR em compras vale 1 ponto(s).",
         "Pontos trocados por ofertas; sem taxa de conversao fixa para dinheiro neste resumo."
@@ -167,7 +172,7 @@
           "expires_on": "2026-12-31"
         }
       ],
-      "source_sha256": "409e05e0b6a36b92c6ed0b1b7b54f91f9e797d34c4c1c4e7909383fe4313f198"
+      "source_sha256": "ff1e4790f0e746e096e1292f061d87fceea2b263453111ee650fb2ae07b42ebb"
     },
     {
       "id": "unibanco",
@@ -175,8 +180,8 @@
       "source_urls": [
         "https://www.unibanco.pt/cartoes/cartao-de-credito/"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
@@ -198,8 +203,8 @@
       "source_urls": [
         "https://www.cetelem.pt/cartao-de-credito-black"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
@@ -216,7 +221,7 @@
         "https://help.revolut.com/en-PT/help/revpoints/what-is-revpoints/question-how-to-earn-revpoints/",
         "https://help.revolut.com/en-PT/help/revpoints/what-is-revpoints/question-how-can-i-redeem-my-revpoints/"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
       "last_success_at": null,
       "status": "error",
       "source_changed": false,
@@ -231,7 +236,7 @@
       "source_urls": [
         "https://support.traderepublic.com/en-pt/3050-What-is-Saveback"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
       "last_success_at": null,
       "status": "error",
       "source_changed": false,
@@ -246,8 +251,8 @@
       "source_urls": [
         "https://helpcentre.trading212.com/hc/en-us/articles/35948436017053-How-does-212-Card-cashback-work"
       ],
-      "checked_at": "2026-11-18T00:16:50.154603+00:00",
-      "last_success_at": "2026-11-18T00:16:50.154603+00:00",
+      "checked_at": "2026-11-18T23:15:46.387811+00:00",
+      "last_success_at": "2026-11-18T23:15:46.387811+00:00",
       "status": "ok",
       "source_changed": false,
       "benefits": [
